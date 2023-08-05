@@ -2,6 +2,12 @@
 
 This is my personal configuration currently under void linux. 
 
+## System Update
+
+```sh
+sudo xbps-install -Su
+```
+
 ## Nushell
 
 ```bash
@@ -22,3 +28,6 @@ echo "alias ll = ls -al" | save -a $nu.config-path
 ```
 
 ## Pulse Audio
+
+## Gaming
+
